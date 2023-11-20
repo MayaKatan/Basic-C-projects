@@ -1,0 +1,8 @@
+Input 1:
+13 13 13 45 -9 -9 -9 18
+18 18 3 4 55 45 66 13 66
+
+Output 1:
+Please enter the values (enter EOF to stop):
+Members of the group in order of appearance:
+13 45 -9 18 3 4 55 66 
